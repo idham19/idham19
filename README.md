@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there 👋, I'm Mahdi 
+
+I do content on design and developement, I really enjoy learning languages and frameworks like react 
+. I'm self-motivated, punctual, reliable, I have great problem solving skills and  I have a passion for gaining knowledge
 
 <!--
 **idham19/idham19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
