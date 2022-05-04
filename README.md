@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Mahdi 
 
-#### I do content on design and developement, I really enjoy learning languages and frameworks like react. 
+#### I do content on design and development, I really enjoy learning languages and frameworks like react. 
 ####  I'm self-motivated, punctual, reliable, I have great problem solving skills and  I have a passion for gaining knowledge
 
 ![Skills-image](https://user-images.githubusercontent.com/97401303/165814570-d7f19b4c-c84d-47ac-ac09-72397e62c1cd.png)
